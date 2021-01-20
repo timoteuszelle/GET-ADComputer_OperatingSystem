@@ -1,2 +1,2 @@
 # GET-ADComputer_OperatingSystem
-Get the operatingsystem version for maybe wich systems you need to patch
+Get the operatingsystem versions that have been registered in the AD by the computer objects.
